@@ -1,0 +1,2 @@
+# Challenge-1---Plane-Programming
+ This is the first challenge in the course - Create with Code, Unit 1 - Player Control in Unity Project.s. I use the skills I learned in the driving simulation to fly a plane around obstacles in the sky. I will have to get the user’s input from the up and down arrows in order to control the plane’s pitch up and down. I will also have to make the camera follow alongside the plane so I can keep it in view. 
